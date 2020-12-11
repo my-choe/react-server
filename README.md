@@ -1,4 +1,4 @@
-# 회원가입 및 로그인, 게시판 기능이 있는<br/>간단한 Node.js + React.js + MongoDB 웹 어플리캐이션 개발
+# 회원가입 및 로그인, 게시판 기능이 있는<br/>간단한 Node.js + React.js + MongoDB 웹 어플리케이션
 <br/>
 
 ## 실습 개발 환경
